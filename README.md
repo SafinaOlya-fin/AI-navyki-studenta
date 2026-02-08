@@ -1,1 +1,1 @@
-AI-navyki studenta
+AI-navyki-studenta
